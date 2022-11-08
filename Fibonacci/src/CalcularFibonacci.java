@@ -19,6 +19,8 @@ public class CalcularFibonacci {
 			
 		}
 		
+		System.out.println();
+		
 		return fibonacci;
 		
 		
