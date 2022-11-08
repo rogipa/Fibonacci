@@ -11,6 +11,8 @@ public class Principal {
 			
 			System.out.println("Teste com vetor: "+c.calcularVetor());
 			
+			System.out.println("Cheguei!!");
+			
 			
 
 	}
