@@ -21,6 +21,8 @@ public class CalcularFibonacci {
 		
 		System.out.println("--teste Pull Request--");
 		
+		System.out.println("++++++ TESTE +++++++");
+		
 		return fibonacci;
 		
 		
